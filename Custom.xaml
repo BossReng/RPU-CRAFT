@@ -1,0 +1,89 @@
+﻿<local:MyCard Title="【RPU-CRAFT ™ | SEASON 3】と【RPU-CRAFT LAUNCHER ™ 】 正式版3.0更新公告" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#009933"
+                   Text="各位父老乡亲 AND 玩家们；お久しぶりです(好久不见)！时隔半年，甚是想念呀！在这三周年的喜庆日子里，首先感谢各位玩家朋友们一直以来的支持与理解！哦对啦，既然是三周目，必然有许多重要的更新内容吧~~那话都说到这里了！就随我一起看看本周年更新了点什么新玩意吧！" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#FF0000"
+                   Text="以下是服务器方面的更新与优化：【共 3 条目】" />        
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />        
+		<local:MyHint Text="【RPU-CRAFT™服务器团队®】现为大家带来了全新的【服务器群组】与【跨服系统】供大家使用！(停用了Multiverse-Core等相关组件)" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="服务器的可选项目更多啦！【RPU-CRAT|三周目】增加了【主大厅】、【竞技场】、【限定玩法组】等全新服务器供各位游玩！" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="数据更有保障啦！【家园世界】现作为一个单独的子服务器供玩家使用，并从原来的【PlotSquare】更名为【RPU-HOME-WORLD】！" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="腐竹技术又双叒叕提高啦！【生存战争】与【家园世界】实现了【实时数据同步】！(仅限于主流玩法与【家园世界】之间)" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#FF0000"
+                   Text="以下是游戏玩法と规则的增加、更新与重置：【共 3 条目】" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="玩法の更新：【RPU-CRAT|三周目】现已更新【限定玩法栏目】！如有意愿，你可以自己寻找合适的服务器端。测试能正常运行后标明出处打包发给管理员；再由管理员移交至服务器技术部门进行实装。当然在此之前，你需要支付一些手续费【服务器资源占用的费用】" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="附加の更新：【RPU-CRAT|三周目】【竞技场】附带增加了修罗榜系统。当你在竞技场成绩非凡时，系统便会将你排入修罗榜中。但在选入修罗榜之前，我们将会对你的战绩进行审核！若审核通过，你的玩家名字、称号将会出现在所有玩家的眼中(服务器数据同步的功劳)。月底刷新排行榜时，若你还能霸榜修罗榜，服务器团队将会给予你【丰厚的奖励】与【一些可谈条件】！(PS:修罗榜仅有三个名额哦)" />        
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="规则の增加：【RPU-CRAT|三周目】新增加玩家封禁系统(封神榜)与监狱系统！封神榜的主要作用是对付那些喜欢开科技玩游戏的玩家们，也就是说你只要不开科技干出什么太过于离谱的事情都不会触发！监狱系统主要用途为：管制那些喜欢在公屏上刷广告的玩家、发送淫秽内容的玩家、谈论政治敏感内容的玩家、试图引战与吵架的玩家.......至于那些屡教不改的弟兄嘛，我们只好把它送上封神榜了呆着了!" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />        
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#FF0000"
+                   Text="以下为一些(限时)小型活动：【共 3 条目】" />		
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />		
+	    <local:MyHint Margin="0,8,0,2" IsWarn="True"
+                   Text="VIP白送活动再度上线啦：需要消耗30点服务器贡献值来获取，此活动对所有人免费开放！【关于贡献值如何获取？请看下面几条公告】" />	
+	    <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="服务器招新限时活动：使用自己的手段去招募新人(除了违法手段)，若招募到一个新人，给予500点卷！【外加服务器贡献值2点】" />	
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="服务器捐赠活动：向腐竹的爱发电进行一个捐的款。小到一杯珍珠奶茶，大到一顿饕餮大餐甚至更高？【获得的点数根据捐款价格而定】" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />        
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#FF0000"
+                   Text="以下为启动器客户端方面的更新：【共 3 条目】" />		
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />			   
+	    <local:MyHint Margin="0,8,0,2" IsWarn="false"
+                   Text="播放器方面：启动器背景音乐全面替换为游戏原声，共30段原声。名称不再加密，已全面改用中文名！" />	
+	    <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="启动器方面：继续沿用PCL2作为服务器官方启动器，游戏可选版本将由1个增加至3个(为了应对限时玩法不同的客户端)！" />			
+	    <local:MyHint Margin="0,8,0,2" IsWarn="true"
+                   Text="游戏方面：启动器已设置为【关闭文件校验】，请勿自己手贱改为【打开】。这样会导致一些被腐竹编译进去的【服务器校验JSON文件】被刷新，最终导致服务器不承认你的【客户端安全性】而阻止你进入服务器。如果你更改了...那抱歉了，你需要去重新下载群内的服务器客户端；记得吸取教训！【对不起，为了良好的游戏环境，我们不得不这样做！——BossReng、DY-Dakunkun、123...[腐竹の技术团队]】" />			
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />			   		
+				<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text=" " />			   
+		<TextBlock TextWrapping="Wrap" Margin="20,5,20,0" FontSize="13" Foreground="#CC00FF"
+                   Text="               【RPU-CRAFT | SEASON 3】と【RPU-CRAFT LAUNCHER】一切解释权归属于 Minecraft Redstone Power United" />
+        <TextBlock TextWrapping="Wrap" Margin="20,5,20,0" FontSize="13" Foreground="#009FCC"
+                   Text="                                                    Minecraft Redstone Power United © Copyright：2019——2022" />        
+	</StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="常驻窗口：【服务器各类虚拟商品售卖】与【腐竹赞助】独家通道" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#FF0000"
+                   Text="各位玩家老爷们，虽然咱们熬到了【RPU-CRAFT】的【三周目】。服务器也从线上搬到了线下(为了数据安全)，但是更新了不少资源占用高的项目！腐竹现找了一台不用的电脑当为暂时的服务器，但是估计也撑不了多久，所以急需购买一台服务器！目前赞助商那边也出了点问题而无法赞助，最近我和赞助商这边手头都挺紧的。所以希望各位玩家老爷们能够发发慈悲，多少给点吧.......【为了各位的良好游戏环境而一起努力吧~】" />        
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#0066FF"
+                   Text="下面这个链接是腐竹的【爱发电入口】，如果可以的话，请腐竹喝杯奶茶或恰碗面条都行啊~~或者有大佬能请腐竹恰一顿饕餮大餐都没问题的！" />				
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />        
+		<local:MyListItem Margin="-5,15,-5,0" 
+		                  Logo="https://afdian.net/favicon.ico" Title="RPU-CRAFT | 爱发电平台" Info="连接腐竹与玩家之间最好的平台" 
+		                  EventType="打开网页" EventData="https://afdian.net/@BossReng" Type="Clickable" />
+		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#5500FF"
+                   Text="--------------------------------------------------------------------------------------------------------------------------------------------------------------" />   
+<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#CC00FF"
+                   Text="PS：顺带提一嘴，虽然现在有VIP白送活动了，但是如果你看不惯这个活动，你也可以掏钱直接把它(VIP)买下。腐竹这边是完全可以接受的哦！" />      
+   </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="特别提醒：使用时需要注意(点击展开)" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Text="关于启动器的温馨提示：没事千万不要随便去改启动器目录下的各类文件，可能会导致主页加载不出来、启动器打不开或者服务器缺少必备插件无法进入！如果你闲的没事去改了这些文件的话，遇到以上问题，不要无脑发窗口震动给我，群发艾特我的一次禁言1Day！以下为解决办法：启动器原文件全部删除自己重新下载就能解决" />
+        <local:MyHint Margin="0,8,0,2" IsWarn="False"
+                   Text="服务器暂无固定版本，要游玩什么服务器(限时玩法)或(主流玩法)，需要根据自己需求选择！" />
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0" Foreground="#FF0000"
+                   Text="那么，您还想知道什么呢？乖乖等更新吧......相信我，很快的......只要各位玩家的反馈与支持成正比就行！" />
+   </StackPanel>
+</local:MyCard>
